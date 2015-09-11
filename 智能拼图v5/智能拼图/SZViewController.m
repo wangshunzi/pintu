@@ -9,7 +9,7 @@
 // 动画执行速度(每毫秒执行)
 #define kSeconds 0.001
 // 打乱次数
-#define kCount 300
+#define kCount 600
 
 #import "SZViewController.h"
 #import "UIImage+SZ.h"

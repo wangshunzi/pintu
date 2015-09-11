@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>9EAB4997-0DD0-4D77-89BC-D047D164F072</string>
+	<key>IDESourceControlProjectName</key>
+	<string>智能拼图</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>9DBA63A8271995F484455AD54EB9EE7D2E1E966F</key>
+		<string>https://github.com/wangshunzi/pintu.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>智能拼图v5/智能拼图.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>9DBA63A8271995F484455AD54EB9EE7D2E1E966F</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/wangshunzi/pintu.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>9DBA63A8271995F484455AD54EB9EE7D2E1E966F</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>9DBA63A8271995F484455AD54EB9EE7D2E1E966F</string>
+			<key>IDESourceControlWCCName</key>
+			<string>pintu</string>
+		</dict>
+	</array>
+</dict>
+</plist>
